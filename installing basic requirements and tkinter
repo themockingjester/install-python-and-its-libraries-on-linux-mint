@@ -1,0 +1,8 @@
+#for installing any library you need to install setuptools first by:-
+sudo apt-get install python-setuptools
+
+#for installing tkinter
+sudo apt-get install python3-tk
+
+
+
